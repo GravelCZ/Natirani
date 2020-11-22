@@ -58,3 +58,8 @@ Size Y:
 The other side length of a rectangle
 For Ellipse that is the length of axis y
 For Triangle that is the length of side b
+
+
+License
+
+You are NOT allowed to distribute, modify or use this code without my permission.
